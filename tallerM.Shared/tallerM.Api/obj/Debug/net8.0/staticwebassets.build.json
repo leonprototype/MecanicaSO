@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8CML9WJZnuYmTRxxot0UgzMXRt8p0Wrwdprvtttn1s0=",
+  "Source": "tallerM.Api",
+  "BasePath": "_content/tallerM.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
