@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace tallerM.Shared.Entities
 {
-    internal class Cliente
+    public class Cliente
     {
         public int Id { get; set; }
         [Required]
@@ -15,6 +15,10 @@ namespace tallerM.Shared.Entities
         [Display(Name = "Nombre")]
         public string Name { get; set; }
 
+        [Required]
+        [MaxLength(60, ErrorMessage ="Error en el campo")]
+        [Display(Name = "Correo electrónico")]
+        public string Email { get; set; }
 
     }
 }

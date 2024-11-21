@@ -9,3 +9,4 @@ C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Share
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\refint\tallerM.Shared.dll
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.pdb
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\ref\tallerM.Shared.dll
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.sourcelink.json

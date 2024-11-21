@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace tallerM.Shared.Entities
 {
-    internal class Automovil
+    public class Automovil
     {
         public int Id { get; set; }
         [Required]
@@ -16,5 +16,9 @@ namespace tallerM.Shared.Entities
         public string Brand { get; set; }
         public int? Year { get; set; }
 
+        [Required]
+        [MaxLength(15, ErrorMessage = "Error en el campo")]
+        [Display(Name ="Placas del auto")]
+        public string Plate { get; set; }
     }
 }

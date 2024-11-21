@@ -1019,9 +1019,6 @@ C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\o
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\l2muv4tdcz-tptq2av103.gz
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\yfa1devjrd-lfu7j35m59.gz
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\tgimske6fq-oyz0vx2fzb.gz
-C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\6io0p1y1wr-wukugvyvrc.gz
-C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\i45r6rklr8-5c8i72zmft.gz
-C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\4ht08pv9dz-jeozer46iw.gz
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1037,3 +1034,7 @@ C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\o
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\refint\tallerM.Web.dll
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\tallerM.Web.pdb
 C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\ref\tallerM.Web.dll
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\tallerM.Web.sourcelink.json
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\6io0p1y1wr-5fszomlh50.gz
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\i45r6rklr8-y2i0ae2wzz.gz
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Debug\net8.0\compressed\4ht08pv9dz-5ymwfnt6sd.gz
