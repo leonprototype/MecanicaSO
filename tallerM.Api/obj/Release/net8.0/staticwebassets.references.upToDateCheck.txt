@@ -1,0 +1,3 @@
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\obj\Release\net8.0\staticwebassets.build.json

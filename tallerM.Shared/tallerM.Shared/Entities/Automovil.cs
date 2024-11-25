@@ -20,5 +20,10 @@ namespace tallerM.Shared.Entities
         [MaxLength(15, ErrorMessage = "Error en el campo")]
         [Display(Name ="Placas del auto")]
         public string Plate { get; set; }
+
+        [Required]
+        [Display(Name ="Propietario del auto")]
+        public required Cliente Cliente { get; set; }
+
     }
 }

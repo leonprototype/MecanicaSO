@@ -1,0 +1,12 @@
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\bin\Release\net8.0\tallerM.Shared.deps.json
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\bin\Release\net8.0\tallerM.Shared.dll
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\bin\Release\net8.0\tallerM.Shared.pdb
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\tallerM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\tallerM.Shared.AssemblyInfoInputs.cache
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\tallerM.Shared.AssemblyInfo.cs
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\tallerM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\tallerM.Shared.sourcelink.json
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\tallerM.Shared.dll
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\refint\tallerM.Shared.dll
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\tallerM.Shared.pdb
+C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Shared\tallerM.Shared\obj\Release\net8.0\ref\tallerM.Shared.dll

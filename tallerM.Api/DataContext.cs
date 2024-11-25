@@ -8,6 +8,7 @@ namespace tallerM.Api
         public DbSet <Cliente> Clientes { get; set; }
         public DbSet <Automovil> Automoviles { get; set; }
 
+        public DbSet <Servicio> Servicios { get; set; }
         public DataContext(DbContextOptions<DataContext> dbContext):base(dbContext) 
         { 
             
@@ -17,7 +18,6 @@ namespace tallerM.Api
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Cliente>().HasIndex(x => x.Email).IsUnique();
             modelBuilder.Entity<Automovil>().HasIndex(x => x.Plate).IsUnique();
-
 
         }
     }
