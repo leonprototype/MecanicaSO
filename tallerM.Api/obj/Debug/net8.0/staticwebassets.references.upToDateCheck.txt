@@ -15,3 +15,4 @@ C:\Users\falsu\OneDrive\Escritorio\sistemasOperativos\tallerMFinal\tallerM.Web\o
 C:\Users\leonl\Source\Repos\tallerMec\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\leonl\Source\Repos\tallerMec\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\leonl\Source\Repos\tallerMec\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leonl\Source\Repos\MecanicaSO\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json

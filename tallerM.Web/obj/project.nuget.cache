@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cASwTPOjR88=",
+  "dgSpecHash": "LIf9tCG1j5o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\tallerM.Web.csproj",
+  "projectFilePath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Web\\tallerM.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonl\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.11\\microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",
     "C:\\Users\\leonl\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.11\\microsoft.aspnetcore.components.8.0.11.nupkg.sha512",

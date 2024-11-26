@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\tallerM.Api.csproj": {}
+    "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Api\\tallerM.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\tallerM.Api.csproj": {
+    "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Api\\tallerM.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\tallerM.Api.csproj",
+        "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Api\\tallerM.Api.csproj",
         "projectName": "tallerM.Api",
-        "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\tallerM.Api.csproj",
+        "projectPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Api\\tallerM.Api.csproj",
         "packagesPath": "C:\\Users\\leonl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\obj\\",
+        "outputPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {
-                "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj"
+              "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {
+                "projectPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj"
               },
-              "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\tallerM.Web.csproj": {
-                "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\tallerM.Web.csproj"
+              "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Web\\tallerM.Web.csproj": {
+                "projectPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Web\\tallerM.Web.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {
+    "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj",
         "projectName": "tallerM.Shared",
-        "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj",
+        "projectPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj",
         "packagesPath": "C:\\Users\\leonl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\obj\\",
+        "outputPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,14 +170,14 @@
         }
       }
     },
-    "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\tallerM.Web.csproj": {
+    "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Web\\tallerM.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\tallerM.Web.csproj",
+        "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Web\\tallerM.Web.csproj",
         "projectName": "tallerM.Web",
-        "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\tallerM.Web.csproj",
+        "projectPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Web\\tallerM.Web.csproj",
         "packagesPath": "C:\\Users\\leonl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\obj\\",
+        "outputPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

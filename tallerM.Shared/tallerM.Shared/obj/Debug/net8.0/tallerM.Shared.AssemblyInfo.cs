@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tallerM.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72264f2e6f7cb33f8822e1356b3e6a9fbf414b5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a634631e60f6d85abe232ea3733319ddcf0f17a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("tallerM.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tallerM.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

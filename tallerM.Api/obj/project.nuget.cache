@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zgKuKWJjWRM=",
+  "dgSpecHash": "WPV9/4Z6cOY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\tallerM.Api.csproj",
+  "projectFilePath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Api\\tallerM.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonl\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\leonl\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

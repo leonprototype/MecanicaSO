@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {}
+    "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {
+    "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj",
         "projectName": "tallerM.Shared",
-        "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj",
+        "projectPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj",
         "packagesPath": "C:\\Users\\leonl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\obj\\",
+        "outputPath": "C:\\Users\\leonl\\Source\\Repos\\MecanicaSO\\tallerM.Shared\\tallerM.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
