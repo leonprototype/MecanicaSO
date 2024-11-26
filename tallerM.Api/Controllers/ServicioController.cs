@@ -6,12 +6,12 @@ using tallerM.Api;
 namespace tallerM.Api.Controllers
 {
     [ApiController]
-    [Route("/api/servicios")]
-    public class ServiciosController : ControllerBase
+    [Route("/api/servicio")]
+    public class ServicioController : ControllerBase
     {
         private readonly DataContext dataContext;
 
-        public ServiciosController(DataContext dataContext)
+        public ServicioController(DataContext dataContext)
         {
             this.dataContext = dataContext;
         }

@@ -74,6 +74,80 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "tallerM.Api.Controllers.CambioPiezaController",
+    "Method": "GetAsync",
+    "RelativePath": "api/cambio-piezas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.CambioPiezaController",
+    "Method": "PostAsync",
+    "RelativePath": "api/cambio-piezas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cambioPieza",
+        "Type": "tallerM.Shared.Entities.CambioPieza",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.CambioPiezaController",
+    "Method": "PutAsync",
+    "RelativePath": "api/cambio-piezas",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cambioPieza",
+        "Type": "tallerM.Shared.Entities.CambioPieza",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.CambioPiezaController",
+    "Method": "GetAsync",
+    "RelativePath": "api/cambio-piezas/id:int",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.CambioPiezaController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/cambio-piezas/id:int",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "tallerM.Api.Controllers.ClientesController",
     "Method": "GetAsync",
     "RelativePath": "api/clientes",
@@ -148,9 +222,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "tallerM.Api.Controllers.ServiciosController",
+    "ContainingType": "tallerM.Api.Controllers.DetalleServicioController",
     "Method": "GetAsync",
-    "RelativePath": "api/servicios",
+    "RelativePath": "api/detalle-servicios",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -158,41 +232,41 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "tallerM.Api.Controllers.ServiciosController",
+    "ContainingType": "tallerM.Api.Controllers.DetalleServicioController",
     "Method": "PostAsync",
-    "RelativePath": "api/servicios",
+    "RelativePath": "api/detalle-servicios",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "servicio",
-        "Type": "tallerM.Shared.Entities.Servicio",
+        "Name": "detalleServicio",
+        "Type": "tallerM.Shared.Entities.DetalleServicio",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "tallerM.Api.Controllers.ServiciosController",
+    "ContainingType": "tallerM.Api.Controllers.DetalleServicioController",
     "Method": "PutAsync",
-    "RelativePath": "api/servicios",
+    "RelativePath": "api/detalle-servicios",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "servicio",
-        "Type": "tallerM.Shared.Entities.Servicio",
+        "Name": "detalleServicio",
+        "Type": "tallerM.Shared.Entities.DetalleServicio",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "tallerM.Api.Controllers.ServiciosController",
+    "ContainingType": "tallerM.Api.Controllers.DetalleServicioController",
     "Method": "GetAsync",
-    "RelativePath": "api/servicios/id:int",
+    "RelativePath": "api/detalle-servicios/id:int",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -206,9 +280,231 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "tallerM.Api.Controllers.ServiciosController",
+    "ContainingType": "tallerM.Api.Controllers.DetalleServicioController",
     "Method": "DeleteAsync",
-    "RelativePath": "api/servicios/id:int",
+    "RelativePath": "api/detalle-servicios/id:int",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.MecanicoController",
+    "Method": "GetAsync",
+    "RelativePath": "api/mecanicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.MecanicoController",
+    "Method": "PostAsync",
+    "RelativePath": "api/mecanicos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mecanico",
+        "Type": "tallerM.Shared.Entities.Mecanico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.MecanicoController",
+    "Method": "PutAsync",
+    "RelativePath": "api/mecanicos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mecanico",
+        "Type": "tallerM.Shared.Entities.Mecanico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.MecanicoController",
+    "Method": "GetAsync",
+    "RelativePath": "api/mecanicos/id:int",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.MecanicoController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/mecanicos/id:int",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.RefaccionController",
+    "Method": "GetAsync",
+    "RelativePath": "api/refacciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.RefaccionController",
+    "Method": "PostAsync",
+    "RelativePath": "api/refacciones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refaccion",
+        "Type": "tallerM.Shared.Entities.Refaccion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.RefaccionController",
+    "Method": "PutAsync",
+    "RelativePath": "api/refacciones",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refaccion",
+        "Type": "tallerM.Shared.Entities.Refaccion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.RefaccionController",
+    "Method": "GetAsync",
+    "RelativePath": "api/refacciones/id:int",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.RefaccionController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/refacciones/id:int",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.ServicioController",
+    "Method": "GetAsync",
+    "RelativePath": "api/servicio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.ServicioController",
+    "Method": "PostAsync",
+    "RelativePath": "api/servicio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "servicio",
+        "Type": "tallerM.Shared.Entities.Servicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.ServicioController",
+    "Method": "PutAsync",
+    "RelativePath": "api/servicio",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "servicio",
+        "Type": "tallerM.Shared.Entities.Servicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.ServicioController",
+    "Method": "GetAsync",
+    "RelativePath": "api/servicio/id:int",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tallerM.Api.Controllers.ServicioController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/servicio/id:int",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

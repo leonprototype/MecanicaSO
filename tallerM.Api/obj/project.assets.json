@@ -5156,6 +5156,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Azure.Identity >= 1.10.3",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
@@ -5165,23 +5166,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\falsu\\.nuget\\packages\\": {},
+    "C:\\Users\\leonl\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\falsu\\OneDrive\\Escritorio\\sistemasOperativos\\tallerMFinal\\tallerM.Api\\tallerM.Api.csproj",
+      "projectUniqueName": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\tallerM.Api.csproj",
       "projectName": "tallerM.Api",
-      "projectPath": "C:\\Users\\falsu\\OneDrive\\Escritorio\\sistemasOperativos\\tallerMFinal\\tallerM.Api\\tallerM.Api.csproj",
-      "packagesPath": "C:\\Users\\falsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\falsu\\OneDrive\\Escritorio\\sistemasOperativos\\tallerMFinal\\tallerM.Api\\obj\\",
+      "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\tallerM.Api.csproj",
+      "packagesPath": "C:\\Users\\leonl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\falsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\leonl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5190,17 +5191,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\falsu\\OneDrive\\Escritorio\\sistemasOperativos\\tallerMFinal\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {
-              "projectPath": "C:\\Users\\falsu\\OneDrive\\Escritorio\\sistemasOperativos\\tallerMFinal\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj"
+            "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj": {
+              "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Shared\\tallerM.Shared\\tallerM.Shared.csproj"
             },
-            "C:\\Users\\falsu\\OneDrive\\Escritorio\\sistemasOperativos\\tallerMFinal\\tallerM.Web\\tallerM.Web.csproj": {
-              "projectPath": "C:\\Users\\falsu\\OneDrive\\Escritorio\\sistemasOperativos\\tallerMFinal\\tallerM.Web\\tallerM.Web.csproj"
+            "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\tallerM.Web.csproj": {
+              "projectPath": "C:\\Users\\leonl\\Source\\Repos\\tallerMec\\tallerM.Web\\tallerM.Web.csproj"
             }
           }
         }
@@ -5221,6 +5223,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Azure.Identity": {
+            "target": "Package",
+            "version": "[1.10.3, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.10, )"
@@ -5268,7 +5274,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Azure.Identity\" 1.10.3 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
       "libraryId": "Azure.Identity",
       "targetGraphs": [
         "net8.0"
@@ -5278,7 +5284,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Azure.Identity\" 1.10.3 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
       "libraryId": "Azure.Identity",
       "targetGraphs": [
         "net8.0"
@@ -5288,7 +5294,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Microsoft.Identity.Client\" 4.56.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
       "libraryId": "Microsoft.Identity.Client",
       "targetGraphs": [
         "net8.0"
@@ -5298,7 +5304,7 @@
       "code": "NU1901",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Microsoft.Identity.Client\" 4.56.0 tiene una vulnerabilidad de gravedad baja conocida, https://github.com/advisories/GHSA-x674-v45j-fwxw",
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw",
       "libraryId": "Microsoft.Identity.Client",
       "targetGraphs": [
         "net8.0"
@@ -5308,7 +5314,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"System.Formats.Asn1\" 5.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-447r-wph3-92pm",
+      "message": "Package 'System.Formats.Asn1' 5.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-447r-wph3-92pm",
       "libraryId": "System.Formats.Asn1",
       "targetGraphs": [
         "net8.0"

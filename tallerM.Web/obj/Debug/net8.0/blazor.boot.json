@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "tallerM.Web",
   "resources": {
-    "hash": "sha256-JezVr+S7Tbc/9FZfp2+m1vE5rejq9DbLWxvU/av8P4A=",
+    "hash": "sha256-b/bvdRjnZ3aQz46HvXyXtPs/io6veFz6LaIL2hcaP6M=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "tallerM.Web.wasm": "sha256-oTpuTj1CD2sS2oakglN4V0A74v8av7udxahpCtPsjeE="
+      "tallerM.Web.wasm": "sha256-QVLcGvsbSol69D8EaTttDcUUvybFn5ckwjYgRoZ4PEs="
     },
     "pdb": {
-      "tallerM.Web.pdb": "sha256-dkIlo0IeEGndFjzJlsOjQCWLaLFnjA+z4mNxVqha/xU="
+      "tallerM.Web.pdb": "sha256-JvxUd0q84Wqgbgmddx/9jMRNT+XIbMXL+tnFA33HmHc="
     }
   },
   "cacheBootResources": true,

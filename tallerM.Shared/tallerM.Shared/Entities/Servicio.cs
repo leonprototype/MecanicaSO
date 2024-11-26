@@ -7,13 +7,12 @@ using System.Threading.Tasks;
 
 namespace tallerM.Shared.Entities
 {
-    public class Servicio
+    public class Servicio : DetalleServicio
     {
-        public int Id { get; set; }
-
         [Required]
-        [Display(Name = "Automovil al que se le realizó servicio")]
+        [Display(Name = "Automóvil al que se realizó servicio")]
         public required Automovil Automovil { get; set; }
-
+        public required Mecanico Mecanico { get; set; }
     }
 }
+
