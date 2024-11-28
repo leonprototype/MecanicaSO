@@ -28,3 +28,4 @@ C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parc
 C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Web\obj\Debug\net8.0\staticwebassets.build.json
