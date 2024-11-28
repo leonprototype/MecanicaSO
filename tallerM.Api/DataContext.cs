@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using tallerM.Shared.Entities;
 
 namespace tallerM.Api
 {
-    public class DataContext : DbContext
+    public class DataContext : IdentityDbContext<User>
     {
         // Define DbSet properties for all entities
         public DbSet<Cliente> Clientes { get; set; }

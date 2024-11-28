@@ -34,3 +34,16 @@ C:\Users\leonl\Source\Repos\MecanicaSO\tallerM.Shared\tallerM.Shared\obj\Debug\n
 C:\Users\leonl\Source\Repos\MecanicaSO\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\refint\tallerM.Shared.dll
 C:\Users\leonl\Source\Repos\MecanicaSO\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.pdb
 C:\Users\leonl\Source\Repos\MecanicaSO\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\ref\tallerM.Shared.dll
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\bin\Debug\net8.0\tallerM.Shared.deps.json
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\bin\Debug\net8.0\tallerM.Shared.dll
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\bin\Debug\net8.0\tallerM.Shared.pdb
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.AssemblyInfo.cs
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.sourcelink.json
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.dll
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\refint\tallerM.Shared.dll
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.pdb
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\ref\tallerM.Shared.dll
+C:\Users\diego\Documents\Universidad\Otoño 2024\Sistemas Operativos\Tercer Parcial\Fong\tallerM.Shared\tallerM.Shared\obj\Debug\net8.0\tallerM.Shared.csproj.AssemblyReference.cache

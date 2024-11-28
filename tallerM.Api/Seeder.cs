@@ -1,4 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Runtime.ExceptionServices;
+using tallerM.Api.Helpers;
 using tallerM.Shared.Entities;
 
 namespace tallerM.Api
@@ -6,12 +10,13 @@ namespace tallerM.Api
     public class Seeder
     {
         private readonly DataContext dataContext;
+        private readonly IUserHelper userHelper;
 
-        public Seeder(DataContext dataContext)
+        public Seeder(DataContext dataContext, IUserHelper userHelper)
         {
             this.dataContext = dataContext;
+            this.userHelper = userHelper;
         }
-
         public async Task SeedAsync()
         {
             await dataContext.Database.EnsureCreatedAsync();
@@ -22,6 +27,35 @@ namespace tallerM.Api
             await CheckCambioPiezasAsync();
             await CheckDetalleServiciosAsync();
             await CheckServiciosAsync();
+            await CheckRolesAsync();
+            await CheckUserAsync("Diego", "Rod", "2212068093", "diego@gmail.com", UserType.Admin);
+            await CheckUserAsync("Ale", "Rod", "2212068094", "ale@gmail.com", UserType.User);
+        }
+
+        private async Task<User> CheckUserAsync(string firstname, string lastName, string phoneNumber, string email, UserType userType)
+        {
+            var user = await userHelper.GetUserAsync(email);
+            if (user == null)
+            {
+                user = new User
+                {
+                    FirstName = firstname,
+                    LastName = lastName,
+                    Email = email,
+                    PhoneNumber = phoneNumber,
+                    UserType = userType,
+                    UserName = email
+                };
+                await userHelper.AddUserAsync(user, "123456");
+                await userHelper.AddUserToRoleAsync(user, userType.ToString());
+            }
+            return user;
+        }
+
+        private async Task CheckRolesAsync()
+        {
+            await userHelper.CheckRoleAsync(UserType.Admin.ToString());
+            await userHelper.CheckRoleAsync(UserType.User.ToString());
         }
 
         private async Task CheckClientesAsync()
